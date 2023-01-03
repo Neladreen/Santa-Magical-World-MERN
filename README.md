@@ -13,7 +13,7 @@ FRONT : avec React et MUI, afficher :
 - Dans la page Ajouter un toy, faire un formulaire qui contient le nom, la description, la catégorie (dans un select, on ne peut sélectionner que les catégories existantes) et le prix. Un bouton "envoyer" permet d'enregistrer le toy en base de donnée. 
 
 
-Il faut lancer le back et le front sur deux serveurs distincts. 
+Il faut lancer le back et le front sur deux ports distincts. 
 La gestion des pages se fait avec react-router-dom
 
 
