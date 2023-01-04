@@ -26,7 +26,7 @@ export default function NavBar({}) {
           <IconButton
             color="inherit"
             sx={{ mr: 2 }}
-            href="Add"
+            href={`toy/add`}
           >
             Add new toy
           </IconButton>
